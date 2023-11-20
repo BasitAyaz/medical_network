@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "889245743912",
+    "firebase_url": "https://medprofessionals-41f23-default-rtdb.firebaseio.com",
+    "project_id": "medprofessionals-41f23",
+    "storage_bucket": "medprofessionals-41f23.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:889245743912:android:44746c5cb4d387575fae1d",
+        "android_client_info": {
+          "package_name": "com.hackathon"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyYU_L29CI2G-YYmDzSC4ZdSqv4rUqF1U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
